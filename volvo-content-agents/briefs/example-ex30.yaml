@@ -1,0 +1,25 @@
+slug: example-ex30
+url: /uk/cars/ex30-electric/
+market: UK
+locale: en-GB
+page_type: PDP
+model: EX30
+primary_keyword: Volvo EX30 electric SUV
+secondary_keywords: [small electric SUV, EX30 range]
+search_intent: commercial
+audience: UK drivers considering their first electric car
+key_messages:
+  - Compact size suits city driving
+  - Designed with recycled and renewable materials
+must_include: [book a test drive]
+must_avoid: [price claims]
+facts:
+  - claim: "PLACEHOLDER: add range figure from Volvo spec sheet"
+    source: "PLACEHOLDER"
+faqs:
+  - Is the Volvo EX30 fully electric?
+internal_links:
+  - anchor: Book a test drive
+    url: /uk/test-drive/
+cta: Book a test drive
+word_count: 300

@@ -1,0 +1,22 @@
+slug: model-page-slug            # folder name in outputs/
+url: /uk/cars/model/             # target URL on volvocars.com
+market: UK
+locale: en-GB
+page_type: PDP                   # PDP, Reach & Teach, Car Selector, Self Service, etc.
+model: EX30
+primary_keyword: ""
+secondary_keywords: []
+search_intent: commercial        # informational, commercial, transactional, navigational
+audience: ""
+key_messages: []
+must_include: []
+must_avoid: []
+facts:                           # only facts listed here may be used
+  - claim: ""
+    source: ""
+faqs: []
+internal_links:
+  - anchor: ""
+    url: ""
+cta: ""
+word_count: 600
